@@ -1,0 +1,1638 @@
+Start testing: Feb 24 18:40 CET
+----------------------------------------------------------
+1/59 Testing: EmptyTree.DeleteNode
+1/59 Test: EmptyTree.DeleteNode
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=EmptyTree.DeleteNode"
+Directory: /home/david/projs/assignment/build
+"EmptyTree.DeleteNode" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.DeleteNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.DeleteNode
+[       OK ] EmptyTree.DeleteNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.DeleteNode" end time: Feb 24 18:40 CET
+"EmptyTree.DeleteNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/59 Testing: EmptyTree.FindNode
+2/59 Test: EmptyTree.FindNode
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=EmptyTree.FindNode"
+Directory: /home/david/projs/assignment/build
+"EmptyTree.FindNode" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.FindNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.FindNode
+[       OK ] EmptyTree.FindNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.FindNode" end time: Feb 24 18:40 CET
+"EmptyTree.FindNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/59 Testing: EmptyTree.InsertNode
+3/59 Test: EmptyTree.InsertNode
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=EmptyTree.InsertNode"
+Directory: /home/david/projs/assignment/build
+"EmptyTree.InsertNode" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.InsertNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.InsertNode
+[       OK ] EmptyTree.InsertNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.InsertNode" end time: Feb 24 18:40 CET
+"EmptyTree.InsertNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/59 Testing: NonEmptyTree.InsertNode_BlackLeavesTree
+4/59 Test: NonEmptyTree.InsertNode_BlackLeavesTree
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_BlackLeavesTree"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_BlackLeavesTree" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_BlackLeavesTree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_BlackLeavesTree
+[       OK ] NonEmptyTree.InsertNode_BlackLeavesTree (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_BlackLeavesTree" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_BlackLeavesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/59 Testing: NonEmptyTree.InsertNode_RedLeavesTree
+5/59 Test: NonEmptyTree.InsertNode_RedLeavesTree
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_RedLeavesTree"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_RedLeavesTree" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_RedLeavesTree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_RedLeavesTree
+[       OK ] NonEmptyTree.InsertNode_RedLeavesTree (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_RedLeavesTree" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_RedLeavesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/59 Testing: NonEmptyTree.InsertNode_ToBlackNode
+6/59 Test: NonEmptyTree.InsertNode_ToBlackNode
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_ToBlackNode"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_ToBlackNode" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_ToBlackNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_ToBlackNode
+[       OK ] NonEmptyTree.InsertNode_ToBlackNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_ToBlackNode" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_ToBlackNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/59 Testing: NonEmptyTree.InsertNode_ColorFlip
+7/59 Test: NonEmptyTree.InsertNode_ColorFlip
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_ColorFlip"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_ColorFlip" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_ColorFlip
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_ColorFlip
+[       OK ] NonEmptyTree.InsertNode_ColorFlip (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_ColorFlip" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_ColorFlip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/59 Testing: NonEmptyTree.InsertNode_LLrotation
+8/59 Test: NonEmptyTree.InsertNode_LLrotation
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_LLrotation"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_LLrotation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_LLrotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_LLrotation
+[       OK ] NonEmptyTree.InsertNode_LLrotation (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_LLrotation" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_LLrotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/59 Testing: NonEmptyTree.InsertNode_RRrotation
+9/59 Test: NonEmptyTree.InsertNode_RRrotation
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_RRrotation"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_RRrotation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_RRrotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_RRrotation
+[       OK ] NonEmptyTree.InsertNode_RRrotation (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_RRrotation" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_RRrotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/59 Testing: NonEmptyTree.InsertNode_LRrotation
+10/59 Test: NonEmptyTree.InsertNode_LRrotation
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_LRrotation"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_LRrotation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_LRrotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_LRrotation
+[       OK ] NonEmptyTree.InsertNode_LRrotation (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_LRrotation" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_LRrotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/59 Testing: NonEmptyTree.InsertNode_RLrotation
+11/59 Test: NonEmptyTree.InsertNode_RLrotation
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_RLrotation"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_RLrotation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_RLrotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_RLrotation
+[       OK ] NonEmptyTree.InsertNode_RLrotation (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_RLrotation" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_RLrotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/59 Testing: NonEmptyTree.FindNode_test1
+12/59 Test: NonEmptyTree.FindNode_test1
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.FindNode_test1"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.FindNode_test1" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.FindNode_test1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.FindNode_test1
+[       OK ] NonEmptyTree.FindNode_test1 (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.FindNode_test1" end time: Feb 24 18:40 CET
+"NonEmptyTree.FindNode_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/59 Testing: NonEmptyTree.FindNode_test2
+13/59 Test: NonEmptyTree.FindNode_test2
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.FindNode_test2"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.FindNode_test2" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.FindNode_test2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.FindNode_test2
+[       OK ] NonEmptyTree.FindNode_test2 (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.FindNode_test2" end time: Feb 24 18:40 CET
+"NonEmptyTree.FindNode_test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/59 Testing: NonEmptyTree.DeleteNode_RedLeaf
+14/59 Test: NonEmptyTree.DeleteNode_RedLeaf
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_RedLeaf"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_RedLeaf" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_RedLeaf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_RedLeaf
+[       OK ] NonEmptyTree.DeleteNode_RedLeaf (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_RedLeaf" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_RedLeaf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/59 Testing: NonEmptyTree.DeleteNode_Root
+15/59 Test: NonEmptyTree.DeleteNode_Root
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_Root"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_Root" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_Root
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_Root
+[       OK ] NonEmptyTree.DeleteNode_Root (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_Root" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_Root" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/59 Testing: NonEmptyTree.DeleteNode_BlackWithRedLeafChild
+16/59 Test: NonEmptyTree.DeleteNode_BlackWithRedLeafChild
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_BlackWithRedLeafChild"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_BlackWithRedLeafChild" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_BlackWithRedLeafChild
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_BlackWithRedLeafChild
+[       OK ] NonEmptyTree.DeleteNode_BlackWithRedLeafChild (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_BlackWithRedLeafChild" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_BlackWithRedLeafChild" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/59 Testing: NonEmptyTree.DeleteNode_BlackLeafWithRedNieces
+17/59 Test: NonEmptyTree.DeleteNode_BlackLeafWithRedNieces
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_BlackLeafWithRedNieces"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_BlackLeafWithRedNieces" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_BlackLeafWithRedNieces
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_BlackLeafWithRedNieces
+[       OK ] NonEmptyTree.DeleteNode_BlackLeafWithRedNieces (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_BlackLeafWithRedNieces" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_BlackLeafWithRedNieces" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/59 Testing: NonEmptyTree.DeleteNode_BlackLeafWithoutNieces
+18/59 Test: NonEmptyTree.DeleteNode_BlackLeafWithoutNieces
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_BlackLeafWithoutNieces"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_BlackLeafWithoutNieces" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_BlackLeafWithoutNieces
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_BlackLeafWithoutNieces
+[       OK ] NonEmptyTree.DeleteNode_BlackLeafWithoutNieces (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_BlackLeafWithoutNieces" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_BlackLeafWithoutNieces" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/59 Testing: NonEmptyTree.DeleteNode_BlackLeafWithOneNiece
+19/59 Test: NonEmptyTree.DeleteNode_BlackLeafWithOneNiece
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_BlackLeafWithOneNiece"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_BlackLeafWithOneNiece" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_BlackLeafWithOneNiece
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_BlackLeafWithOneNiece
+[       OK ] NonEmptyTree.DeleteNode_BlackLeafWithOneNiece (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_BlackLeafWithOneNiece" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_BlackLeafWithOneNiece" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/59 Testing: NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling
+20/59 Test: NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling
+[       OK ] NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/59 Testing: NonEmptyTree.DeleteNode_DoublelBackNode
+21/59 Test: NonEmptyTree.DeleteNode_DoublelBackNode
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_DoublelBackNode"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_DoublelBackNode" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_DoublelBackNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_DoublelBackNode
+[       OK ] NonEmptyTree.DeleteNode_DoublelBackNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_DoublelBackNode" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_DoublelBackNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/59 Testing: NonEmptyTree.DeleteNode_InsideTree
+22/59 Test: NonEmptyTree.DeleteNode_InsideTree
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_InsideTree"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_InsideTree" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_InsideTree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_InsideTree
+[       OK ] NonEmptyTree.DeleteNode_InsideTree (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_InsideTree" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_InsideTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/59 Testing: TreeAxioms.Axiom1
+23/59 Test: TreeAxioms.Axiom1
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.Axiom1"
+Directory: /home/david/projs/assignment/build
+"TreeAxioms.Axiom1" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.Axiom1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.Axiom1
+[       OK ] TreeAxioms.Axiom1 (330 ms)
+[----------] 1 test from TreeAxioms (330 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (330 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.Axiom1" end time: Feb 24 18:40 CET
+"TreeAxioms.Axiom1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/59 Testing: TreeAxioms.Axiom2
+24/59 Test: TreeAxioms.Axiom2
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.Axiom2"
+Directory: /home/david/projs/assignment/build
+"TreeAxioms.Axiom2" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.Axiom2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.Axiom2
+[       OK ] TreeAxioms.Axiom2 (360 ms)
+[----------] 1 test from TreeAxioms (360 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (360 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.Axiom2" end time: Feb 24 18:40 CET
+"TreeAxioms.Axiom2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/59 Testing: TreeAxioms.Axiom3
+25/59 Test: TreeAxioms.Axiom3
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.Axiom3"
+Directory: /home/david/projs/assignment/build
+"TreeAxioms.Axiom3" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.Axiom3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.Axiom3
+[       OK ] TreeAxioms.Axiom3 (48 ms)
+[----------] 1 test from TreeAxioms (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.Axiom3" end time: Feb 24 18:40 CET
+"TreeAxioms.Axiom3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/59 Testing: NonEmptyTree.DeleteNode_RandomGeneration
+26/59 Test: NonEmptyTree.DeleteNode_RandomGeneration
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode_RandomGeneration"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.DeleteNode_RandomGeneration" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode_RandomGeneration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode_RandomGeneration
+[       OK ] NonEmptyTree.DeleteNode_RandomGeneration (264 ms)
+[----------] 1 test from NonEmptyTree (264 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (264 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode_RandomGeneration" end time: Feb 24 18:40 CET
+"NonEmptyTree.DeleteNode_RandomGeneration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/59 Testing: NonEmptyTree.FindNode_RandomGeneration
+27/59 Test: NonEmptyTree.FindNode_RandomGeneration
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.FindNode_RandomGeneration"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.FindNode_RandomGeneration" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.FindNode_RandomGeneration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.FindNode_RandomGeneration
+[       OK ] NonEmptyTree.FindNode_RandomGeneration (9 ms)
+[----------] 1 test from NonEmptyTree (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.FindNode_RandomGeneration" end time: Feb 24 18:40 CET
+"NonEmptyTree.FindNode_RandomGeneration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/59 Testing: NonEmptyTree.InsertNode_RandomGeneration
+28/59 Test: NonEmptyTree.InsertNode_RandomGeneration
+Command: "/home/david/projs/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode_RandomGeneration"
+Directory: /home/david/projs/assignment/build
+"NonEmptyTree.InsertNode_RandomGeneration" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode_RandomGeneration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode_RandomGeneration
+[       OK ] NonEmptyTree.InsertNode_RandomGeneration (135 ms)
+[----------] 1 test from NonEmptyTree (135 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (135 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode_RandomGeneration" end time: Feb 24 18:40 CET
+"NonEmptyTree.InsertNode_RandomGeneration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/59 Testing: EmptyMatrix.GetSet
+29/59 Test: EmptyMatrix.GetSet
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=EmptyMatrix.GetSet"
+Directory: /home/david/projs/assignment/build
+"EmptyMatrix.GetSet" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyMatrix.GetSet
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyMatrix
+[ RUN      ] EmptyMatrix.GetSet
+[       OK ] EmptyMatrix.GetSet (0 ms)
+[----------] 1 test from EmptyMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyMatrix.GetSet" end time: Feb 24 18:40 CET
+"EmptyMatrix.GetSet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/59 Testing: EmptyMatrix.Comparison
+30/59 Test: EmptyMatrix.Comparison
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=EmptyMatrix.Comparison"
+Directory: /home/david/projs/assignment/build
+"EmptyMatrix.Comparison" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyMatrix.Comparison
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyMatrix
+[ RUN      ] EmptyMatrix.Comparison
+[       OK ] EmptyMatrix.Comparison (0 ms)
+[----------] 1 test from EmptyMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyMatrix.Comparison" end time: Feb 24 18:40 CET
+"EmptyMatrix.Comparison" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/59 Testing: EmptyMatrix.Addition
+31/59 Test: EmptyMatrix.Addition
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=EmptyMatrix.Addition"
+Directory: /home/david/projs/assignment/build
+"EmptyMatrix.Addition" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyMatrix.Addition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyMatrix
+[ RUN      ] EmptyMatrix.Addition
+[       OK ] EmptyMatrix.Addition (0 ms)
+[----------] 1 test from EmptyMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyMatrix.Addition" end time: Feb 24 18:40 CET
+"EmptyMatrix.Addition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/59 Testing: EmptyMatrix.Multiplication
+32/59 Test: EmptyMatrix.Multiplication
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=EmptyMatrix.Multiplication"
+Directory: /home/david/projs/assignment/build
+"EmptyMatrix.Multiplication" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyMatrix.Multiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyMatrix
+[ RUN      ] EmptyMatrix.Multiplication
+[       OK ] EmptyMatrix.Multiplication (0 ms)
+[----------] 1 test from EmptyMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyMatrix.Multiplication" end time: Feb 24 18:40 CET
+"EmptyMatrix.Multiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/59 Testing: EmptyMatrix.Equation
+33/59 Test: EmptyMatrix.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=EmptyMatrix.Equation"
+Directory: /home/david/projs/assignment/build
+"EmptyMatrix.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyMatrix.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyMatrix
+[ RUN      ] EmptyMatrix.Equation
+[       OK ] EmptyMatrix.Equation (0 ms)
+[----------] 1 test from EmptyMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyMatrix.Equation" end time: Feb 24 18:40 CET
+"EmptyMatrix.Equation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/59 Testing: NonEmptyMatrixMoreCols.Comparison
+34/59 Test: NonEmptyMatrixMoreCols.Comparison
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreCols.Comparison"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreCols.Comparison" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreCols.Comparison
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreCols
+[ RUN      ] NonEmptyMatrixMoreCols.Comparison
+[       OK ] NonEmptyMatrixMoreCols.Comparison (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreCols (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixMoreCols.Comparison" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreCols.Comparison" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/59 Testing: NonEmptyMatrixMoreCols.Adittion
+35/59 Test: NonEmptyMatrixMoreCols.Adittion
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreCols.Adittion"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreCols.Adittion" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreCols.Adittion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreCols
+[ RUN      ] NonEmptyMatrixMoreCols.Adittion
+[       OK ] NonEmptyMatrixMoreCols.Adittion (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreCols (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixMoreCols.Adittion" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreCols.Adittion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/59 Testing: NonEmptyMatrixMoreCols.Multiplication
+36/59 Test: NonEmptyMatrixMoreCols.Multiplication
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreCols.Multiplication"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreCols.Multiplication" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreCols.Multiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreCols
+[ RUN      ] NonEmptyMatrixMoreCols.Multiplication
+[       OK ] NonEmptyMatrixMoreCols.Multiplication (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreCols (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixMoreCols.Multiplication" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreCols.Multiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/59 Testing: NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown
+37/59 Test: NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreCols
+[ RUN      ] NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown
+/home/david/projs/assignment/white_box_tests.cpp:430: Failure
+Expected equality of these values:
+  (std::string)err->what()
+    Which is: "Matice musi byt ctvercova."
+  "Pocet prvku prave strany rovnice musi odpovidat poctu radku matice."
+/home/david/projs/assignment/white_box_tests.cpp:442: Failure
+Expected equality of these values:
+  (std::string)err->what()
+    Which is: "Pocet prvku prave strany rovnice musi odpovidat poctu radku matice."
+  "Matice musi byt ctvercova."
+[  FAILED  ] NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreCols (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/59 Testing: NonEmptyMatrixMoreRows.Comparison
+38/59 Test: NonEmptyMatrixMoreRows.Comparison
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreRows.Comparison"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreRows.Comparison" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreRows.Comparison
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreRows
+[ RUN      ] NonEmptyMatrixMoreRows.Comparison
+[       OK ] NonEmptyMatrixMoreRows.Comparison (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreRows (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixMoreRows.Comparison" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreRows.Comparison" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/59 Testing: NonEmptyMatrixMoreRows.Adittion
+39/59 Test: NonEmptyMatrixMoreRows.Adittion
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreRows.Adittion"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreRows.Adittion" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreRows.Adittion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreRows
+[ RUN      ] NonEmptyMatrixMoreRows.Adittion
+[       OK ] NonEmptyMatrixMoreRows.Adittion (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreRows (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixMoreRows.Adittion" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreRows.Adittion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/59 Testing: NonEmptyMatrixMoreRows.Multiplication
+40/59 Test: NonEmptyMatrixMoreRows.Multiplication
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreRows.Multiplication"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreRows.Multiplication" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreRows.Multiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreRows
+[ RUN      ] NonEmptyMatrixMoreRows.Multiplication
+[       OK ] NonEmptyMatrixMoreRows.Multiplication (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreRows (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixMoreRows.Multiplication" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreRows.Multiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/59 Testing: NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown
+41/59 Test: NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixMoreRows
+[ RUN      ] NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown
+/home/david/projs/assignment/white_box_tests.cpp:478: Failure
+Expected equality of these values:
+  (std::string)err->what()
+    Which is: "Matice musi byt ctvercova."
+  "Pocet prvku prave strany rovnice musi odpovidat poctu radku matice."
+/home/david/projs/assignment/white_box_tests.cpp:490: Failure
+Expected equality of these values:
+  (std::string)err->what()
+    Which is: "Pocet prvku prave strany rovnice musi odpovidat poctu radku matice."
+  "Matice musi byt ctvercova."
+[  FAILED  ] NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown (0 ms)
+[----------] 1 test from NonEmptyMatrixMoreRows (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown" end time: Feb 24 18:40 CET
+"NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/59 Testing: NonEmptyMatrixSquare.Comparison
+42/59 Test: NonEmptyMatrixSquare.Comparison
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixSquare.Comparison"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixSquare.Comparison" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixSquare.Comparison
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixSquare
+[ RUN      ] NonEmptyMatrixSquare.Comparison
+[       OK ] NonEmptyMatrixSquare.Comparison (0 ms)
+[----------] 1 test from NonEmptyMatrixSquare (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixSquare.Comparison" end time: Feb 24 18:40 CET
+"NonEmptyMatrixSquare.Comparison" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/59 Testing: NonEmptyMatrixSquare.Addition
+43/59 Test: NonEmptyMatrixSquare.Addition
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixSquare.Addition"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixSquare.Addition" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixSquare.Addition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixSquare
+[ RUN      ] NonEmptyMatrixSquare.Addition
+[       OK ] NonEmptyMatrixSquare.Addition (0 ms)
+[----------] 1 test from NonEmptyMatrixSquare (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixSquare.Addition" end time: Feb 24 18:40 CET
+"NonEmptyMatrixSquare.Addition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/59 Testing: NonEmptyMatrixSquare.Multiplication
+44/59 Test: NonEmptyMatrixSquare.Multiplication
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=NonEmptyMatrixSquare.Multiplication"
+Directory: /home/david/projs/assignment/build
+"NonEmptyMatrixSquare.Multiplication" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyMatrixSquare.Multiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyMatrixSquare
+[ RUN      ] NonEmptyMatrixSquare.Multiplication
+[       OK ] NonEmptyMatrixSquare.Multiplication (0 ms)
+[----------] 1 test from NonEmptyMatrixSquare (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyMatrixSquare.Multiplication" end time: Feb 24 18:40 CET
+"NonEmptyMatrixSquare.Multiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/59 Testing: Matrix_1x1.Equation
+45/59 Test: Matrix_1x1.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=Matrix_1x1.Equation"
+Directory: /home/david/projs/assignment/build
+"Matrix_1x1.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Matrix_1x1.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Matrix_1x1
+[ RUN      ] Matrix_1x1.Equation
+[       OK ] Matrix_1x1.Equation (0 ms)
+[----------] 1 test from Matrix_1x1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Matrix_1x1.Equation" end time: Feb 24 18:40 CET
+"Matrix_1x1.Equation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/59 Testing: Matrix_2x2.Equation
+46/59 Test: Matrix_2x2.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=Matrix_2x2.Equation"
+Directory: /home/david/projs/assignment/build
+"Matrix_2x2.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Matrix_2x2.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Matrix_2x2
+[ RUN      ] Matrix_2x2.Equation
+[       OK ] Matrix_2x2.Equation (0 ms)
+[----------] 1 test from Matrix_2x2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Matrix_2x2.Equation" end time: Feb 24 18:40 CET
+"Matrix_2x2.Equation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/59 Testing: Matrix_3x3.Equation
+47/59 Test: Matrix_3x3.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=Matrix_3x3.Equation"
+Directory: /home/david/projs/assignment/build
+"Matrix_3x3.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Matrix_3x3.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Matrix_3x3
+[ RUN      ] Matrix_3x3.Equation
+[       OK ] Matrix_3x3.Equation (0 ms)
+[----------] 1 test from Matrix_3x3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Matrix_3x3.Equation" end time: Feb 24 18:40 CET
+"Matrix_3x3.Equation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/59 Testing: Matrix_4x4.Equation
+48/59 Test: Matrix_4x4.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=Matrix_4x4.Equation"
+Directory: /home/david/projs/assignment/build
+"Matrix_4x4.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Matrix_4x4.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Matrix_4x4
+[ RUN      ] Matrix_4x4.Equation
+[       OK ] Matrix_4x4.Equation (1 ms)
+[----------] 1 test from Matrix_4x4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Matrix_4x4.Equation" end time: Feb 24 18:40 CET
+"Matrix_4x4.Equation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/59 Testing: Matrix_7x7.Equation
+49/59 Test: Matrix_7x7.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=Matrix_7x7.Equation"
+Directory: /home/david/projs/assignment/build
+"Matrix_7x7.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Matrix_7x7.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Matrix_7x7
+[ RUN      ] Matrix_7x7.Equation
+[       OK ] Matrix_7x7.Equation (65 ms)
+[----------] 1 test from Matrix_7x7 (65 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (65 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"Matrix_7x7.Equation" end time: Feb 24 18:40 CET
+"Matrix_7x7.Equation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/59 Testing: Matrix_10x10.Equation
+50/59 Test: Matrix_10x10.Equation
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=Matrix_10x10.Equation"
+Directory: /home/david/projs/assignment/build
+"Matrix_10x10.Equation" start time: Feb 24 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Matrix_10x10.Equation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Matrix_10x10
+[ RUN      ] Matrix_10x10.Equation
+[       OK ] Matrix_10x10.Equation (62156 ms)
+[----------] 1 test from Matrix_10x10 (62156 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (62156 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  62.16 sec
+----------------------------------------------------------
+Test Passed.
+"Matrix_10x10.Equation" end time: Feb 24 18:41 CET
+"Matrix_10x10.Equation" time elapsed: 00:01:02
+----------------------------------------------------------
+
+51/59 Testing: MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1
+51/59 Test: MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1"
+Directory: /home/david/projs/assignment/build
+"MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixDeterminantInterval_neg1to1
+[ RUN      ] MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1
+/home/david/projs/assignment/white_box_tests.cpp:613: Failure
+Expected: matrix.solveEquation({0.2, 0.3, 0.4, 0.5, 0.6}) doesn't throw an exception.
+  Actual: it throws.
+[  FAILED  ] MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1 (0 ms)
+[----------] 1 test from MatrixDeterminantInterval_neg1to1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1" end time: Feb 24 18:41 CET
+"MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/59 Testing: MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax
+52/59 Test: MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax
+Command: "/home/david/projs/assignment/build/white_box_test" "--gtest_filter=MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax"
+Directory: /home/david/projs/assignment/build
+"MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixDeterminant_GT_IntMax
+[ RUN      ] MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax
+/home/david/projs/assignment/white_box_tests.cpp:621: Failure
+Expected: matrix.solveEquation({8.5, 0.2, 2.6, 8.4, 1.5, 0.6}) doesn't throw an exception.
+  Actual: it throws.
+[  FAILED  ] MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax (1 ms)
+[----------] 1 test from MatrixDeterminant_GT_IntMax (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax" end time: Feb 24 18:41 CET
+"MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/59 Testing: NonEmptyQueue.Insert
+53/59 Test: NonEmptyQueue.Insert
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Insert"
+Directory: /home/david/projs/assignment/build
+"NonEmptyQueue.Insert" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Insert
+[       OK ] NonEmptyQueue.Insert (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Insert" end time: Feb 24 18:41 CET
+"NonEmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/59 Testing: NonEmptyQueue.RemoveAllForward
+54/59 Test: NonEmptyQueue.RemoveAllForward
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllForward"
+Directory: /home/david/projs/assignment/build
+"NonEmptyQueue.RemoveAllForward" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllForward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllForward
+[       OK ] NonEmptyQueue.RemoveAllForward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllForward" end time: Feb 24 18:41 CET
+"NonEmptyQueue.RemoveAllForward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/59 Testing: NonEmptyQueue.RemoveAllBackward
+55/59 Test: NonEmptyQueue.RemoveAllBackward
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllBackward"
+Directory: /home/david/projs/assignment/build
+"NonEmptyQueue.RemoveAllBackward" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllBackward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllBackward
+[       OK ] NonEmptyQueue.RemoveAllBackward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllBackward" end time: Feb 24 18:41 CET
+"NonEmptyQueue.RemoveAllBackward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/59 Testing: NonEmptyQueue.Find
+56/59 Test: NonEmptyQueue.Find
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Find"
+Directory: /home/david/projs/assignment/build
+"NonEmptyQueue.Find" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Find
+[       OK ] NonEmptyQueue.Find (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Find" end time: Feb 24 18:41 CET
+"NonEmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/59 Testing: EmptyQueue.Insert
+57/59 Test: EmptyQueue.Insert
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Insert"
+Directory: /home/david/projs/assignment/build
+"EmptyQueue.Insert" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Insert
+[       OK ] EmptyQueue.Insert (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Insert" end time: Feb 24 18:41 CET
+"EmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/59 Testing: EmptyQueue.Remove
+58/59 Test: EmptyQueue.Remove
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Remove"
+Directory: /home/david/projs/assignment/build
+"EmptyQueue.Remove" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Remove
+[       OK ] EmptyQueue.Remove (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Remove" end time: Feb 24 18:41 CET
+"EmptyQueue.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/59 Testing: EmptyQueue.Find
+59/59 Test: EmptyQueue.Find
+Command: "/home/david/projs/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Find"
+Directory: /home/david/projs/assignment/build
+"EmptyQueue.Find" start time: Feb 24 18:41 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/david/projs/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Find
+[       OK ] EmptyQueue.Find (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Find" end time: Feb 24 18:41 CET
+"EmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 24 18:41 CET

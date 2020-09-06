@@ -1,0 +1,67 @@
+EmptyTree.DeleteNode 3 0.000983675
+EmptyTree.FindNode 3 0.000831879
+EmptyTree.InsertNode 3 0.000814301
+NonEmptyTree.InsertNode_BlackLeavesTree 3 0.000826201
+NonEmptyTree.InsertNode_RedLeavesTree 3 0.000822586
+NonEmptyTree.InsertNode_ToBlackNode 3 0.000938572
+NonEmptyTree.InsertNode_ColorFlip 3 0.000886825
+NonEmptyTree.InsertNode_LLrotation 3 0.00097015
+NonEmptyTree.InsertNode_RRrotation 3 0.00123179
+NonEmptyTree.InsertNode_LRrotation 3 0.000919725
+NonEmptyTree.InsertNode_RLrotation 3 0.000862543
+NonEmptyTree.FindNode_test1 3 0.000865413
+NonEmptyTree.FindNode_test2 3 0.000909756
+NonEmptyTree.DeleteNode_RedLeaf 3 0.00111075
+NonEmptyTree.DeleteNode_Root 3 0.000840573
+NonEmptyTree.DeleteNode_BlackWithRedLeafChild 3 0.000855642
+NonEmptyTree.DeleteNode_BlackLeafWithRedNieces 3 0.000906195
+NonEmptyTree.DeleteNode_BlackLeafWithoutNieces 3 0.0016098
+NonEmptyTree.DeleteNode_BlackLeafWithOneNiece 3 0.000923907
+NonEmptyTree.DeleteNode_BlackLeafWithBlackParentAndRedSibling 3 0.000853215
+NonEmptyTree.DeleteNode_DoublelBackNode 3 0.000987335
+NonEmptyTree.DeleteNode_InsideTree 3 0.000857618
+TreeAxioms.Axiom1 3 0.110886
+TreeAxioms.Axiom2 3 0.120844
+TreeAxioms.Axiom3 3 0.0167398
+NonEmptyTree.DeleteNode_RandomGeneration 3 0.0889263
+NonEmptyTree.FindNode_RandomGeneration 3 0.00382207
+NonEmptyTree.InsertNode_RandomGeneration 3 0.0461859
+EmptyMatrix.GetSet 3 0.000943298
+EmptyMatrix.Comparison 3 0.000988441
+EmptyMatrix.Addition 3 0.00097475
+EmptyMatrix.Multiplication 3 0.00090105
+EmptyMatrix.Equation 3 0.00108426
+NonEmptyMatrixMoreCols.Comparison 3 0.0009682
+NonEmptyMatrixMoreCols.Adittion 3 0.000941838
+NonEmptyMatrixMoreCols.Multiplication 3 0.00087857
+NonEmptyMatrixMoreCols.Equation 0 0
+NonEmptyMatrixMoreRows.Comparison 3 0.00103978
+NonEmptyMatrixMoreRows.Adittion 3 0.00109916
+NonEmptyMatrixMoreRows.Multiplication 3 0.000926644
+NonEmptyMatrixMoreRows.Equation 0 0
+NonEmptyMatrixSquare.Comparison 3 0.00106312
+NonEmptyMatrixSquare.Addition 3 0.000992053
+NonEmptyMatrixSquare.Multiplication 3 0.00216752
+Matrix_1x1.Equation 3 0.00101447
+Matrix_2x2.Equation 3 0.000895547
+Matrix_3x3.Equation 3 0.00095453
+Matrix_4x4.Equation 3 0.00103339
+Matrix_7x7.Equation 3 0.0228818
+Matrix_10x10.Equation 3 20.7196
+MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1 0 0
+MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax 0 0
+MatrixDeterminantIsINF.DetermianatIsGreaterThanDoubleMax 0 0
+NonEmptyQueue.Insert 3 0.000843703
+NonEmptyQueue.RemoveAllForward 3 0.000801342
+NonEmptyQueue.RemoveAllBackward 3 0.000792765
+NonEmptyQueue.Find 3 0.000798326
+EmptyQueue.Insert 3 0.000766685
+EmptyQueue.Remove 3 0.000798234
+EmptyQueue.Find 3 0.000761917
+NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown 0 0
+NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown 0 0
+---
+NonEmptyMatrixMoreCols.Equation_WrongExceptionsWereThrown
+NonEmptyMatrixMoreRows.Equation_WrongExceptionsWereThrown
+MatrixDeterminantInterval_neg1to1.DeterminantIsFromInterval_Negative1to1
+MatrixDeterminant_GT_IntMax.DeterminantIsGreaterThanIntMax
